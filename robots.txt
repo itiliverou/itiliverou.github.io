@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://itiliverou.github.io/sitemap
+Sitemap: https://itiliverou.github.io/app/sitemap
+Sitemap: https://itiliverou.github.io/assets/sitemap
+Sitemap: https://itiliverou.github.io/css/sitemap
+Sitemap: https://itiliverou.github.io/includes/sitemap
+Sitemap: https://itiliverou.github.io/item/sitemap
+Sitemap: https://itiliverou.github.io/src/sitemap
